@@ -1,4 +1,4 @@
-# JDBC Student Management Syste
+# JDBC Student Management System
 
 This project is a **Student Management System** implemented using **Java Database Connectivity (JDBC)**. It provides functionalities to create, manage, and manipulate student records in a MySQL database. The project is designed to demonstrate various aspects of database operations, exception handling, and batch processing in Java.
 
